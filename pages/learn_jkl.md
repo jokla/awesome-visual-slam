@@ -5,6 +5,7 @@
 
 # Online Courses
 * [Visual Odometry & SLAM](https://www.coursera.org/lecture/stereovision-motion-tracking/visual-odometry-slam-wd5Mk) Coursera
+* [Pose estimation](https://www.coursera.org/learn/robotics-perception?specialization=robotics) : Coursera
 
 # Online blog
 
